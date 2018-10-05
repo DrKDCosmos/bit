@@ -1,0 +1,2 @@
+# bit
+Bitminer code
